@@ -21,4 +21,5 @@ As a result, we used the Surprise package which is designed for recommendation
 algorithms and which calculates the decomposition matrices without any assumptions
 about the missing values.
 
+
 ![](Schematic of hybrid algorithm.PNG)

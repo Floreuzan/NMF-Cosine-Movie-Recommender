@@ -22,4 +22,4 @@ algorithms and which calculates the decomposition matrices without any assumptio
 about the missing values.
 
 
-![](Schematic of hybrid algorithm.PNG)
+![](Schematic_ hybrid_algorithm.PNG)
